@@ -1,10 +1,2 @@
- Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est 7080-7274
+modier le cas de test 
 
- R‚pertoire de C:\Users\User\Desktop\test 2021
-
-15/02/2021  20:51    <DIR>          .
-15/02/2021  20:51    <DIR>          ..
-15/02/2021  20:51                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  213ÿ131ÿ943ÿ936 octets libres
